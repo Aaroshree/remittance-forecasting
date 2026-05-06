@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Nepal Remittance Forecasting Dataset",
+  "date_range": "2000-08-01 00:00:00 to 2023-12-01 00:00:00",
+  "frequency": "Monthly",
+  "variables": {
+    "remittance": "Workers' remittances (NPR in millions) - monthly, non-cumulative",
+    "exchange_rate": "Monthly average middle exchange rate (NPR per USD)",
+    "oil_price": "Placeholder - needs to be filled from external source (e.g., World Bank, FRED)",
+    "dofe_departures": "Monthly migrant worker departures approved by DOFE (available from Aug 2012)"
+  },
+  "notes": [
+    "Remittance data extracted from NRB BPM5 Table, Row 32",
+    "Fiscal year conversion: Aug-Jul mapped to calendar years",
+    "DOFE data only available from August 2012 onwards",
+    "August 2023 remittance value corrected (was negative due to cumulative conversion)"
+  ],
+  "missing_data": {
+    "dofe_departures": "Missing before August 2012 (144 months)",
+    "oil_price": "Complete placeholder - needs external source"
+  }
+}
