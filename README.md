@@ -106,23 +106,15 @@ Workers who leave Nepal do not send money home immediately — there is typicall
 
 ```
 
-remittance\_2012\_2023\_ready.csv        (original — 136 rows)
-
-&#x20;        |
-
-&#x20;        |  Extended to Nov 2025
-
-&#x20;        ↓
-
-remittance\_2012\_2025\_extended.csv     (160 rows, 5 cols)
-
-&#x20;        |
-
-&#x20;        |  Lag features added, NaN rows dropped
-
-&#x20;        ↓
-
-remittance\_2012\_2025\_model\_ready.csv  (151 rows, 8 cols) ← ready for modelling
+remittance_2012_2023_ready.csv        (original — 136 rows)
+         |
+         |  Extended to Nov 2025
+         ↓
+remittance_2012_2025_extended.csv     (160 rows, 5 cols)
+         |
+         |  Lag features added, NaN rows dropped
+         ↓
+remittance_2012_2025_model_ready.csv  (151 rows, 8 cols) ← ready for modelling
 
 ```
 
