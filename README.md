@@ -1,8 +1,8 @@
-\# Remittance Forecasting — Nepal
+# Remittance Forecasting — Nepal
 
 
 
-\##Introduction
+## Introduction
 
 
 
@@ -10,11 +10,11 @@ Nepal is one of the most remittance-dependent economies in the world, with remit
 
 
 
-\---
+---
 
 
 
-\##Research Gap
+## Research Gap
 
 
 
@@ -22,11 +22,11 @@ Ghimire (2023) laid important groundwork in Nepal remittance forecasting, howeve
 
 
 
-\---
+---
 
 
 
-\##Our Approach
+## Our Approach
 
 
 
@@ -34,13 +34,13 @@ This study addresses those gaps in three ways. First, we extend the forecasting 
 
 
 
-\---
+---
 
 
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -72,11 +72,11 @@ Remittance values for Aug 2024 – Nov 2025 were reconstructed by differencing c
 
 
 
-\---
+---
 
 
 
-\## Features
+## Features
 
 
 
@@ -96,11 +96,11 @@ Workers who leave Nepal do not send money home immediately — there is typicall
 
 
 
-\---
+---
 
 
 
-\## Data Pipeline
+## Data Pipeline
 
 
 
@@ -128,15 +128,15 @@ remittance\_2012\_2025\_model\_ready.csv  (151 rows, 8 cols) ← ready for model
 
 
 
-\---
+---
 
 
 
-\## Data Sources
+## Data Sources
 
-\- \[Nepal Rastra Bank](https://www.nrb.org.np) — remittance, exchange rate
+- \[Nepal Rastra Bank](https://www.nrb.org.np) — remittance, exchange rate
 
-\- \[World Bank Pink Sheet](https://www.worldbank.org/en/research/commodity-markets) — oil price
+- \[World Bank Pink Sheet](https://www.worldbank.org/en/research/commodity-markets) — oil price
 
-\- \[Department of Foreign Employment](https://dofe.gov.np) — migrant worker departures
+- \[Department of Foreign Employment](https://dofe.gov.np) — migrant worker departures
 
