@@ -56,11 +56,11 @@ The original dataset (Ghimire, 2023) covered Aug 2012 – Dec 2023. We extended 
 
 | NRB Current Macroeconomic Reports | `remittance` | Aug 2024 – Nov 2025 |
 
-| NRB Exchange Rate file | `exchange\_rate` | Jan 2024 – Nov 2025 |
+| NRB Exchange Rate file | `exchange_rate` | Jan 2024 – Nov 2025 |
 
-| World Bank Pink Sheet | `oil\_price` | Jan 2024 – Nov 2025 |
+| World Bank Pink Sheet | `oil_price` | Jan 2024 – Nov 2025 |
 
-| Dept. of Foreign Employment (DoFE) | `dofe\_departures` | Jan 2024 – Nov 2025 |
+| Dept. of Foreign Employment (DoFE) | `dofe_departures` | Jan 2024 – Nov 2025 |
 
 
 
@@ -88,11 +88,11 @@ Workers who leave Nepal do not send money home immediately — there is typicall
 
 |--------|---------|
 
-| `dofe\_lag3` | DoFE departures from 3 months ago |
+| `dofe_lag3` | DoFE departures from 3 months ago |
 
-| `dofe\_lag6` | DoFE departures from 6 months ago |
+| `dofe_lag6` | DoFE departures from 6 months ago |
 
-| `dofe\_lag9` | DoFE departures from 9 months ago |
+| `dofe_lag9` | DoFE departures from 9 months ago |
 
 
 
