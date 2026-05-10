@@ -36,8 +36,11 @@ This study addresses those gaps in three ways. First, we extend the forecasting 
 
 ---
 
+## Data Collection
+Raw monthly statistics files are downloaded from the Nepal Rastra Bank website covering the period Aug 2012 – Dec 2023. These files contain remittance, exchange rate, and other macroeconomic indicators published by NRB in their monthly statistical reports.
 
-
+## Data Combining
+The downloaded NRB files are parsed and merged into a single structured dataset. Relevant columns are extracted, dates are standardized, and the data is saved as a clean panel ready for further processing.
 
 
 ## Dataset
