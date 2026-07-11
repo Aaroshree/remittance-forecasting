@@ -1,16 +1,16 @@
 Feature,Group,1-Month |SHAP|,3-Month |SHAP|,6-month |SHAP|
-ar_lag_1,Macro,0.00031,0.00019,2e-05
-ar_lag_2,Macro,0.00022,5e-05,1e-05
-ma_2,Macro,0.00021,3e-05,0.0
-month_cos,Macro,0.00018,1e-05,0.0
-remittance_log,Autoregressive,0.00014,0.00017,1e-05
-ar_lag_12,Macro,0.00012,0.00028,1e-05
-exchange_rate,Macro,5e-05,3e-05,1e-05
-dofe_departures,DOFE,4e-05,7e-05,0.0
-dofe_lag6,DOFE,3e-05,0.0,0.0
-ma_6,Macro,2e-05,0.00017,1e-05
-ar_lag_3,Macro,2e-05,0.00018,1e-05
-diff_1,Macro,1e-05,0.0,0.0
-month_sin,Macro,1e-05,5e-05,1e-05
-dofe_lag3,DOFE,0.0,1e-05,0.0
+exchange_rate,Macro,0.00132,0.0,0.00023
+ma_2,Macro,0.00095,0.0,0.00028
+ar_lag_3,Macro,0.0008,0.0,0.00014
+ma_6,Macro,0.00066,0.0,0.00016
+month_cos,Macro,0.00059,0.0,6e-05
+month_sin,Macro,0.0004,0.0,0.00013
+remittance_log,Autoregressive,0.00034,0.0,0.00023
+ar_lag_1,Macro,0.00023,0.0,0.00023
+ar_lag_12,Macro,0.00022,0.0,0.0003
+dofe_departures,DOFE,0.00014,0.0,4e-05
+dofe_lag6,DOFE,0.00012,0.0,0.0
+ar_lag_2,Macro,0.00011,0.0,4e-05
+diff_1,Macro,0.0001,0.0,4e-05
+dofe_lag3,DOFE,3e-05,0.0,7e-05
 covid_shock,Structural break,0.0,0.0,0.0
